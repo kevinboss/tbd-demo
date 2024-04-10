@@ -1,3 +1,3 @@
 # tbd-demo
 
-## feature 1, 2
+## feature 1
